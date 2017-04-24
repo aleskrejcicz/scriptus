@@ -1,10 +1,8 @@
 @echo off
 
 :: # =============================================================
-:: # Author: http://sefikail.cz
-:: # License: http://creativecommons.org/licenses/by/3.0/
-:: # Source code: https://github.com/sefikail/scriptus
-:: # Version: Version: 15.07.2016
+:: # Author: http://aleskrejci.cz
+:: # Version: 15.07.2016
 :: # =============================================================
 
 REM Administrative privileges
